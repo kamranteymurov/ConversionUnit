@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd3c528b-afb0-43aa-b9b4-d01a756159a7": {
+      "ProjectGuid": "fd3c528b-afb0-43aa-b9b4-d01a756159a7",
+      "DisplayName": "ConversionApi",
+      "ColorIndex": 0
+    },
+    "9338b6c6-15fa-4a1a-8d0e-fae170347289": {
+      "ProjectGuid": "9338b6c6-15fa-4a1a-8d0e-fae170347289",
+      "DisplayName": "ConversionLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

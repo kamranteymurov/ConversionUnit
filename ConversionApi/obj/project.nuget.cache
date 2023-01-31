@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Quypm8iD7RX4GxpUU8MtdRrfnNWE97QADXhP+4BZCQQGFoDGZ2I168z7i0CQjrTg1xbwHzWplipizr08B5V5uA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\ConversionUnit\\ConversionApi\\ConversionApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afsana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Afsana\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Afsana\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afsana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afsana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afsana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
